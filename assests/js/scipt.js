@@ -1,1 +1,1 @@
-// i don't know java script
+alert ("We Are The Crystal Gems!");
