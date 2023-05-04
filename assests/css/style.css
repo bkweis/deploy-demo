@@ -1,6 +1,10 @@
-h1{
+.title {
     font-size: 60px;
     font-weight: bold;
     color: pink;
     background-color: black;
+}
+
+body{
+    background-color: gold;
 }
